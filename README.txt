@@ -1,1 +1,3 @@
-the answer is coffee
+- 👋 hi, I’m @nikoizelin;
+- 👀 whoami? i'm an fullstack developer specialised in (html, css), php, java, mysql, javascript and frameworks like jquery and frontend frameworks like react;
+- 📫 how to reach me: nicojann.iselin@gmail.com
